@@ -7,7 +7,6 @@
 📱 Built GUIs, deep learning models, and signal processing apps  
 🌐 Exploring AI in communication systems, automation, and smart infrastructure
 
-
 📫 Reach me:  
-📧 roydebayan2002@gmail.com  
+📧 m.satpati68@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mitasree-satpati-955975248/)
